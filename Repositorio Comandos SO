@@ -1,0 +1,24 @@
+Repositorio de Comandos Linux para la clase Sistemas Operativos
+
+
+|    Comando    |  Descripción  |  Ejemplo de Uso  |
+|      :---:    |     :---:     |       :---:      |
+| sudo  | Se usa antes de un comando para ejecutar como administrador  | sudo apt update                          |
+| ls  | Muestra todas las carpetas  |     ls             |
+| pwd
+| cd
+| nano 
+| mkdir
+| rm 
+| cd ..
+| rm -R
+| clear
+| rm -rf/
+| top
+| htop
+| ps -aux
+| pstree
+| kill 
+| man
+| sudo su
+| 
