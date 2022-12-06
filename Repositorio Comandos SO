@@ -3,8 +3,8 @@ Repositorio de Comandos Linux para la clase Sistemas Operativos
 
 |    Comando    |  Descripción  |  Ejemplo de Uso  |
 |      :---:    |     :---:     |       :---:      |
-| sudo  | Se usa antes de un comando para ejecutar como administrador  | sudo apt update                          |
-| ls  | Muestra todas las carpetas  |     ls             |
+| sudo  | Se usa antes de un comando para ejecutar como administrador | sudo apt update |
+| ls  | Muestra todas las carpetas  | ls |
 | pwd
 | cd
 | nano 
